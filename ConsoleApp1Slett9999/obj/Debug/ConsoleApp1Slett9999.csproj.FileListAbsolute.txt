@@ -1,0 +1,7 @@
+C:\Users\halvo\Source\Repos\Metoder\ConsoleApp1Slett9999\bin\Debug\ConsoleApp1Slett9999.exe.config
+C:\Users\halvo\Source\Repos\Metoder\ConsoleApp1Slett9999\bin\Debug\ConsoleApp1Slett9999.exe
+C:\Users\halvo\Source\Repos\Metoder\ConsoleApp1Slett9999\bin\Debug\ConsoleApp1Slett9999.pdb
+C:\Users\halvo\Source\Repos\Metoder\ConsoleApp1Slett9999\obj\Debug\ConsoleApp1Slett9999.csproj.AssemblyReference.cache
+C:\Users\halvo\Source\Repos\Metoder\ConsoleApp1Slett9999\obj\Debug\ConsoleApp1Slett9999.csproj.CoreCompileInputs.cache
+C:\Users\halvo\Source\Repos\Metoder\ConsoleApp1Slett9999\obj\Debug\ConsoleApp1Slett9999.exe
+C:\Users\halvo\Source\Repos\Metoder\ConsoleApp1Slett9999\obj\Debug\ConsoleApp1Slett9999.pdb
